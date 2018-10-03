@@ -2,6 +2,9 @@ import QtQuick 2.0
 import QtQuick.Layouts 1.3
 import QtQuick.Controls 2.2
 
+/**
+ * Widget to display each item in our list.
+ */
 RowLayout {
     id: root
 
